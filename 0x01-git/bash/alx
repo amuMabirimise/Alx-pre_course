@@ -1,1 +1,2 @@
-#!/bin/bash\n echo "School" 
+i#!/bin/bash\n echo "School" 
+echo "ALX School is so cool!"
